@@ -1,0 +1,10 @@
+yan\algernon\controller\Controller.class
+yan\algernon\domain\Languages.class
+yan\algernon\service\HistoryService.class
+yan\algernon\domain\TranslateHistory.class
+yan\algernon\domain\Wrapper.class
+yan\algernon\utils\Connector.class
+yan\algernon\Application.class
+yan\algernon\domain\TextForTranslate.class
+yan\algernon\domain\TransletedText.class
+yan\algernon\repository\HistoryRepo.class
